@@ -3,8 +3,8 @@
 ![](assets/preview.png)
 
 
-预览: [tg-bot.ml](https://www.tg-bot.ml/)
-个人博客：[速龙博客](https://blog.ahayu.cn)
+预览: [www.aiwifi.top](#)
+个人博客：[博客](#)
 
 ## 部署一个你自己的（免费）
 
