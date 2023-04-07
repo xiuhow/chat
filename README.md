@@ -3,7 +3,7 @@
 ![](assets/preview.png)
 
 
-预览: [www.aiwifi.top](#)
+预览: [www.aiwifi.top](www.aiwifi.top)
 个人博客：[博客](#)
 
 ## 部署一个你自己的（免费）
